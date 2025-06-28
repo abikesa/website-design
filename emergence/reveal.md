@@ -1,1 +1,2 @@
 - Check [this](https://abikesa.github.io/phantom/act1/chapter3.html) out!
+- And some [notes](https://claude.ai/public/artifacts/82e082f4-4063-4473-b285-2c94645c2f9d)
